@@ -7,6 +7,7 @@ public class MyNewTestClass {
 System.out.println("Bismillah!!!");
 System.out.println("Yaa man laa ya muut!!!");
 System.out.println("ALhamdulillah !!!!");
+System.out.println("Yo dyomirawo on wallitolan!!!");
 	}
 
 }
